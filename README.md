@@ -66,12 +66,13 @@ python                 2 hrs 15 mins       █████░░░░░░░�
  Last Updated on 29/02/2024 12:33:02 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
+
 
 ```text
-From: 1 January 2024 - To: 1 march 2024
+From: 1 August 2023 - To: 1 march 2024
 
 Total Time: 1,607 hrs 2 mins
+<!--START_SECTION:waka-simple-->
 
 flutter            554 hrs         ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.47 %
 dart               313 hrs 18 mins ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.50 %
