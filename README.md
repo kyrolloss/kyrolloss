@@ -6,7 +6,7 @@ I'm **Kyrollos Harby Ferweez**, a passionate **Flutter Developer** 🚀
 
 ## 📊 GitHub Contributions  
 
-![Kyrollos's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kyrolloss&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true)
+![Kyrollos's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyrolloss&theme=github_dark)
 
 ---
 
