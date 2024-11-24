@@ -1,15 +1,52 @@
-<h1 align="center">Hi 👋, I'm kerollos</h1>
-<h3 align="center">flutter developer</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?kyrolloss=DenverCoder1)](https://git.io/streak-stats)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kerollos harby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerollos harby" height="30" width="40" /></a>
-<a href="https://fb.com/kerollos harby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kerollos harby" height="30" width="40" /></a>
-</p>
+# Hi there! 👋 Welcome to my GitHub Profile  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+I'm **Kyrollos Harby Ferweez**, a passionate **Flutter Developer** with a knack for creating efficient, user-friendly, and scalable mobile applications. With a focus on clean code and modern technologies, I aim to deliver impactful solutions to real-world problems. 🚀  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrolloss&show_icons=true&locale=en&layout=compact" alt="kyrolloss" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyrolloss&" alt="kyrolloss" /></p>
+## 📊 GitHub Contributions  
+
+![Kyrollos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyrolloss&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrolloss&layout=compact&theme=radical)  
+
+---
+
+## 🔧 Skills & Tools  
+
+- **Languages:** Dart, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** Flutter, Firebase, Git, REST APIs  
+- **Database:** Firestore, SQLite  
+- **Others:** UI/UX Design Principles, Responsive Design, Agile Development  
+
+---
+
+## 🌟 Projects  
+
+### 1. [Project Name](#)  
+A brief description of your project. Highlight features, technologies used, and the problem it solves.  
+
+### 2. [Another Project](#)  
+Another quick overview of a standout project you've worked on.
+
+Check out more of my work in the [repositories](https://github.com/kyrolloss?tab=repositories) section.  
+
+---
+
+## 🛠️ Current Focus  
+- Building robust mobile applications with **Flutter**  
+- Exploring advanced features in **Firebase**  
+- Enhancing skills in **backend integration**  
+
+---
+
+## 💬 Let's Connect!  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/kyrollos-ferweez)  
+📧 Email: kyrollos@example.com  
+📱 Phone: 01205708870  
+
+Feel free to reach out for collaborations or just to say hello! 😊  
+
+---
+
+![Footer](https://github-readme-streak-stats.herokuapp.com/?user=kyrolloss&theme=radical)
