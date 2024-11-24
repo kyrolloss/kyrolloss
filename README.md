@@ -2,7 +2,7 @@
 
 I'm **Kyrollos Harby Ferweez**, a passionate **Flutter Developer** 🚀  
 
-![Kerollos's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrolloss&show_icons=true&theme=radical)
+[![Kerollos's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kyrolloss&theme=github)](https://github.com/kyrolloss)
 
 
 ## 🌟 Projects  
